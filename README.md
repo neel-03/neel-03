@@ -15,14 +15,14 @@ Here are some of the technologies and languages I'm proficient in:
 - **Python**
 - **Android Development**
 - **React.js**
-
+- **Next.js**
+- 
 ## Get in Touch 📬
 
 Feel free to reach out to me! Whether it's a question, collaboration, or just a friendly chat, I'm always open to connecting with fellow developers.
 
 - [Email](mailto:neelvaghasiya003@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/neel-vaghasiya-404b10225/)
-- [GitHub Profile](https://github.com/neel-03)
 
 ## Let's Code Together! 🚀
 
