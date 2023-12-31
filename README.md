@@ -16,7 +16,7 @@ Here are some of the technologies and languages I'm proficient in:
 - **Android Development**
 - **React.js**
 - **Next.js**
-- 
+  
 ## Get in Touch 📬
 
 Feel free to reach out to me! Whether it's a question, collaboration, or just a friendly chat, I'm always open to connecting with fellow developers.
