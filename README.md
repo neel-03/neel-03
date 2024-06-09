@@ -1,13 +1,15 @@
  ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 <div width="100">
-  <img src="https://i.postimg.cc/c4mDh83T/neel-vaghasiya-github-typing-animation.gif" width="450"/><br/>
+   <img src="https://i.postimg.cc/c4mDh83T/neel-vaghasiya-github-typing-animation.gif" width="450"/>
 </div>
+
 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲.<br/>
 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗮𝗻𝗱 𝗿𝗮𝗶𝘀𝗲 𝗶𝘀𝘀𝘂𝗲𝘀 𝗮𝗻𝗱 𝘀𝘂𝗯𝗺𝗶𝘁 𝗣𝗥𝘀 𝗶𝗳 𝘆𝗼𝘂 𝘁𝗵𝗶𝗻𝗸 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗰𝗼𝘂𝗹𝗱 𝗯𝗲 𝗯𝗲𝘁𝘁𝗲𝗿. <br/>
-𝗛𝗮𝗽𝗽𝘆 𝗖𝗼𝗱𝗶𝗻𝗴! 😊🧑‍💻<br/>
+𝗛𝗮𝗽𝗽𝘆 𝗖𝗼𝗱𝗶𝗻𝗴! 😊🧑‍💻<br/><br/>
+<img alt="Visitor's count Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fneel-03%2Fneel-03.json&style=for-the-badge&logo=visitor&label=Visitor's%20Count%20%3A&labelColor=black&color=black"><br/>
 
 ## 𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐚𝐛𝐨𝐮𝐭 <𝚖𝚢𝚜𝚎𝚕𝚏/><img src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width="30px">
-👨🏻‍💻 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗲𝗲𝗹(𝗵𝗲/𝗵𝗶𝗺), 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆. <br/>
+👨🏻‍💻 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗲𝗲𝗹, 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆. <br/>
 🌐 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀, 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱. <br/>
 🌱 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗯𝗲𝗶𝗻𝗴 𝗽𝗮𝗿𝘁 𝗼𝗳 𝗮 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. <br/>
 🎵 𝗘𝗻𝗷𝗼𝘆𝘀 𝗹𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 𝗺𝘂𝘀𝗶𝗰. <br/>
@@ -30,11 +32,4 @@
 <div align="center">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-03&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=neel-03&show_icons=true&theme=transparent&show=reviews"/>
-</div> <br/>
-<hr/>
-<div align="center">
-  𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗰𝗼𝘂𝗻𝘁 : 👀<br/><br/>
-  <p align="center"><img src="https://profile-counter.glitch.me/{neel-03}/count.svg" alt="neel-03 :: Visitor's Count" /></p><br/><br/>
-<!--   𝗚𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 :<br/><br/>
-   -->
 </div>
