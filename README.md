@@ -1,6 +1,6 @@
  ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 <div width="100">
-   <img src="https://i.postimg.cc/c4mDh83T/neel-vaghasiya-github-typing-animation.gif" width="450"/>
+  <img src="https://i.postimg.cc/4NBFp5m1/typing-animation.gif" width="450"/>
 </div>
 
 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲.<br/>
