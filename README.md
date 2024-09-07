@@ -6,7 +6,7 @@
 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲.<br/>
 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗮𝗻𝗱 𝗿𝗮𝗶𝘀𝗲 𝗶𝘀𝘀𝘂𝗲𝘀 𝗮𝗻𝗱 𝘀𝘂𝗯𝗺𝗶𝘁 𝗣𝗥𝘀 𝗶𝗳 𝘆𝗼𝘂 𝘁𝗵𝗶𝗻𝗸 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗰𝗼𝘂𝗹𝗱 𝗯𝗲 𝗯𝗲𝘁𝘁𝗲𝗿. <br/>
 𝗛𝗮𝗽𝗽𝘆 𝗖𝗼𝗱𝗶𝗻𝗴! 😊🧑‍💻<br/><br/>
-<img alt="Visitor's count Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fneel-03%2Fneel-03.json&style=for-the-badge&logo=visitor&label=Visitor's%20Count%20%3A&labelColor=black&color=black"><br/>
+![](https://komarev.com/ghpvc/?username=neel-03&style=for-the-badge)<br/>
 
 ## 𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐛𝐢𝐭 𝐚𝐛𝐨𝐮𝐭 <𝚖𝚢𝚜𝚎𝚕𝚏/><img src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width="30px">
 👨🏻‍💻 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗲𝗲𝗹, 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆. <br/>
