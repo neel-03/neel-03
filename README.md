@@ -37,6 +37,6 @@
     align="center"
     src="./github-metrics.svg"
     alt="GitHub activity and language statistics"
-    width="500"
+    width="100%"
   />
 </div>
