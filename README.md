@@ -36,6 +36,6 @@
   <img
     src="./github-metrics.svg"
     alt="GitHub Metrics"
-    style="max-width: 100%; height: auto;"
+    style="width: 100%; height: auto;"
   />
 </div>
