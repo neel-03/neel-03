@@ -33,6 +33,10 @@
 
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 <𝚜𝚝𝚊𝚝𝚜/><img src="https://media.tenor.com/SODZi0_1_CYAAAAi/cool-sunglasses.gif" width="30px">
 <div align="center">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-03&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=neel-03&show_icons=true&theme=transparent&show=reviews"/>
+  <img
+    align="center"
+    src="./github-metrics.svg"
+    alt="GitHub activity and language statistics"
+    width="800"
+  />
 </div>
