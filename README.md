@@ -34,9 +34,8 @@
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 <𝚜𝚝𝚊𝚝𝚜/><img src="https://media.tenor.com/SODZi0_1_CYAAAAi/cool-sunglasses.gif" width="30px">
 <div align="center">
   <img
-    align="center"
     src="./github-metrics.svg"
-    alt="GitHub activity and language statistics"
-    width="100%"
+    alt="GitHub Metrics"
+    style="max-width: 100%; height: auto;"
   />
 </div>
